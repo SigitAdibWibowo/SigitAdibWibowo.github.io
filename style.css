@@ -1,0 +1,14 @@
+body {
+  min-heigh: 3000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: aqua;
+}
+#Moment {
+  background-color: aqua;
+}
+
+section {
+  padding-top: 5rem;
+}
